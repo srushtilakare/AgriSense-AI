@@ -110,7 +110,7 @@ const translations = {
 
     // Education Page
     cropDiseaseLibrary: "Crop Disease Library",
-    educationDesc: "Learn about common crop diseases, their symptoms, and treatments",
+    // educationDesc: "Learn about common crop diseases, their symptoms, and treatments",
     searchDiseases: "Search diseases or crops...",
     allCrops: "All Crops",
     prevention: "Prevention",
@@ -132,7 +132,7 @@ const translations = {
     // Treatments
     fungicideSpray: "Apply copper-based fungicide spray",
     removeAffectedLeaves: "Remove and destroy affected leaves",
-    improveVentilation: "Improve air circulation",
+    // improveVentilation: "Improve air circulation",
     copperSpray: "Apply copper bactericide spray",
     removeDebris: "Remove plant debris regularly",
     avoidOverhead: "Avoid overhead watering",
@@ -158,7 +158,7 @@ const translations = {
     healthyCrops: "Healthy Crops",
     diseasedCrops: "Diseased Crops",
     scanHistory: "Scan History",
-    historyDesc: "View and manage your previous crop disease scans",
+    // historyDesc: "View and manage your previous crop disease scans",
     date: "Date",
     downloadReport: "Download Report",
     reportGenerated: "Report generated successfully!",
@@ -281,7 +281,7 @@ const translations = {
 
     // Education Page
     cropDiseaseLibrary: "फसल रोग पुस्तकालय",
-    educationDesc: "सामान्य फसल रोगों, उनके लक्षणों और उपचारों के बारे में जानें",
+    // educationDesc: "सामान्य फसल रोगों, उनके लक्षणों और उपचारों के बारे में जानें",
     searchDiseases: "रोग या फसल खोजें...",
     allCrops: "सभी फसलें",
     prevention: "रोकथाम",
@@ -303,7 +303,7 @@ const translations = {
     // Treatments
     fungicideSpray: "तांबा-आधारित फंगीसाइड स्प्रे लगाएं",
     removeAffectedLeaves: "प्रभावित पत्तियों को हटाएं और नष्ट करें",
-    improveVentilation: "हवा का संचार सुधारें",
+    // improveVentilation: "हवा का संचार सुधारें",
     copperSpray: "तांबा बैक्टीरिसाइड स्प्रे लगाएं",
     removeDebris: "पौधे के मलबे को नियमित रूप से हटाएं",
     avoidOverhead: "ऊपरी पानी देने से बचें",
@@ -329,7 +329,7 @@ const translations = {
     healthyCrops: "स्वस्थ फसलें",
     diseasedCrops: "रोगग्रस्त फसलें",
     scanHistory: "स्कैन इतिहास",
-    historyDesc: "अपने पिछले फसल रोग स्कैन देखें और प्रबंधित करें",
+    // historyDesc: "अपने पिछले फसल रोग स्कैन देखें और प्रबंधित करें",
     date: "दिनांक",
     downloadReport: "रिपोर्ट डाउनलोड करें",
     reportGenerated: "रिपोर्ट सफलतापूर्वक तैयार की गई!",
@@ -452,7 +452,7 @@ const translations = {
 
     // Education Page
     cropDiseaseLibrary: "पीक रोग ग्रंथालय",
-    educationDesc: "सामान्य पीक रोग, त्यांची लक्षणे आणि उपचारांबद्दल जाणून घ्या",
+    // educationDesc: "सामान्य पीक रोग, त्यांची लक्षणे आणि उपचारांबद्दल जाणून घ्या",
     searchDiseases: "रोग किंवा पिके शोधा...",
     allCrops: "सर्व पिके",
     prevention: "प्रतिबंध",
@@ -474,7 +474,7 @@ const translations = {
     // Treatments
     fungicideSpray: "तांबे-आधारित बुरशीनाशक फवारणी लावा",
     removeAffectedLeaves: "प्रभावित पाने काढा आणि नष्ट करा",
-    improveVentilation: "हवेचे संचलन सुधारा",
+    // improveVentilation: "हवेचे संचलन सुधारा",
     copperSpray: "तांबे जीवाणूनाशक फवारणी लावा",
     removeDebris: "वनस्पतींचा कचरा नियमितपणे काढा",
     avoidOverhead: "वरच्या पाणी देण्यापासून टाळा",
@@ -500,7 +500,7 @@ const translations = {
     healthyCrops: "निरोगी पिके",
     diseasedCrops: "रोगग्रस्त पिके",
     scanHistory: "स्कॅन इतिहास",
-    historyDesc: "तुमचे मागील पीक रोग स्कॅन पहा आणि व्यवस्थापित करा",
+    // historyDesc: "तुमचे मागील पीक रोग स्कॅन पहा आणि व्यवस्थापित करा",
     date: "दिनांक",
     downloadReport: "अहवाल डाउनलोड करा",
     reportGenerated: "अहवाल यशस्वीरित्या तयार केला!",
