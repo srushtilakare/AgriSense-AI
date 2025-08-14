@@ -5,7 +5,7 @@ import json
 import os
 
 # Path to dataset (PlantVillage root folder with subfolders for each class)
-dataset_path = "path_to_PlantVillage"
+dataset_path = r"C:\Users\srush\Downloads\archive\PlantVillage"
 
 # Image preprocessing & augmentation
 datagen = ImageDataGenerator(
@@ -24,7 +24,8 @@ train_gen = datagen.flow_from_directory(
     target_size=(128, 128),
     batch_size=32,
     class_mode='categorical',
-    subset='training'
+    subset='training',
+    shuffle=True
 )
 
 val_gen = datagen.flow_from_directory(
@@ -32,7 +33,8 @@ val_gen = datagen.flow_from_directory(
     target_size=(128, 128),
     batch_size=32,
     class_mode='categorical',
-    subset='validation'
+    subset='validation',
+    shuffle=True
 )
 
 # CNN Model
